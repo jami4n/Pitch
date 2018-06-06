@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/icon_custom_pitch"
+        android:id="@+id/menu_play_custom_pitch"
+        android:title="Toggle Custom Pitch" />
+
+    <item
+        android:icon="@drawable/icon_alphatext"
+        android:id="@+id/menu_show_aplhatext"
+        android:title="Toggle AlphaText" />
+
+    <item
+        android:showAsAction="never"
+        android:id="@+id/play_nike"
+        android:title="Play Nike" />
+
+    <item
+        android:showAsAction="never"
+        android:id="@+id/play_cola"
+        android:title="Play Coke"/>
+
+    <item
+        android:showAsAction="never"
+        android:id="@+id/play_lego"
+        android:title="Play Lego"/>
+
+    <item
+        android:showAsAction="never"
+        android:id="@+id/play_adidas"
+        android:title="Play Adidas"/>
+
+    <item
+        android:showAsAction="never"
+        android:id="@+id/play_merc"
+        android:title="Play Merc"/>
+
+    <item
+        android:showAsAction="never"
+        android:id="@+id/play_norton"
+        android:title="Play Norton"/>
+</menu>
